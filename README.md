@@ -8,7 +8,7 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 ----
 1️⃣. Business Communication
 
-📌 Evidence
+📄 Evidence
 (Screenshot or document of communication samples)
 
 Reflection
@@ -25,7 +25,7 @@ Result: Developed effective communication skills tailored to diverse workplace s
 
 2️⃣. Interview Skills
 
-📌 Evidence
+ 📄 Evidence
 (Examples of interview question lists and practice notes)
 
 Reflection 
@@ -42,7 +42,7 @@ Result: Increased confidence and ability to communicate my skills persuasively d
 
 3️⃣. Mock Interview
 
-📌 Evidence
+📄 Evidence
 (Link or file of mock interview performance)
 
 Reflection 
@@ -59,7 +59,7 @@ Result: Gained valuable insights into my interview strengths and areas for devel
 
 4️⃣. Professional Networking
 
-📌 Evidence
+📄 Evidence
 (Screenshot of online engagement and networking events attended)
 Reflection 
 
@@ -75,7 +75,7 @@ Result: Built a network that provides continual learning, mentorship, and job op
 
 Workplace Etiquette
 
-📌 Evidence
+📄 Evidence
 (Examples of workplace codes of conduct or feedback)
 
 Reflection 
