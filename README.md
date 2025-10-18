@@ -22,7 +22,7 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
 
-Reflection
+## Reflection  (STAR Technique)
 
 **Situation**: I needed to enhance my ability to communicate clearly in a professional IT environment.
 
@@ -39,7 +39,8 @@ Reflection
 ## 📄 Evidence
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Interview%20skills.png)
 
-Reflection 
+## Reflection  (STAR Technique)
+
 
 **Situation**: Preparing to face demanding interviews in the competitive technology sector.
 
@@ -60,7 +61,8 @@ https://github.com/222334703/MockInterview_Video
 
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Mock%20Interview-Vuyisa.png)
 
-Reflection 
+## Reflection  (STAR Technique)
+
 
 **Situation**: Participated in a realistic simulated interview to improve readiness for real-world hiring.
 
@@ -77,6 +79,9 @@ Reflection
 ## 📄 Evidence
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Professional%20Networking.png)
 
+## Reflection  (STAR Technique)
+
+
 **Situation**: Recognized the importance of professional relationships for career advancement.
 
 **Task**: To establish a strong network of contacts within the IT industry using social platforms and events.
@@ -92,7 +97,8 @@ Reflection
 ## 📄 Evidence
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Workplace%20Etiquette.png)
 
-Reflection 
+## Reflection  (STAR Technique)
+
 
 **Situation**: Needed to fit into professional team environments in IT workplaces.
 
