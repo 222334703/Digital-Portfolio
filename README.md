@@ -76,7 +76,7 @@ Reflection
 ## 5️⃣. 🏢Workplace Etiquette
 
 📄 Evidence
-![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
+![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Workplace%20Etiquette.png)
 
 Reflection 
 
