@@ -11,7 +11,7 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 📌 Evidence
 (Screenshot or document of communication samples)
 
-Reflection (STAR)
+Reflection
 
 Situation: I needed to enhance my ability to communicate clearly in a professional IT environment.
 
@@ -28,7 +28,7 @@ Result: Developed effective communication skills tailored to diverse workplace s
 📌 Evidence
 (Examples of interview question lists and practice notes)
 
-Reflection (STAR)
+Reflection 
 
 Situation: Preparing to face demanding interviews in the competitive technology sector.
 
@@ -45,7 +45,7 @@ Result: Increased confidence and ability to communicate my skills persuasively d
 📌 Evidence
 (Link or file of mock interview performance)
 
-Reflection (STAR)
+Reflection 
 
 Situation: Participated in a realistic simulated interview to improve readiness for real-world hiring.
 
@@ -61,7 +61,7 @@ Result: Gained valuable insights into my interview strengths and areas for devel
 
 📌 Evidence
 (Screenshot of online engagement and networking events attended)
-Reflection (STAR)
+Reflection 
 
 Situation: Recognized the importance of professional relationships for career advancement.
 
@@ -78,7 +78,7 @@ Workplace Etiquette
 📌 Evidence
 (Examples of workplace codes of conduct or feedback)
 
-Reflection (STAR)
+Reflection 
 
 Situation: Needed to fit into professional team environments in IT workplaces.
 
