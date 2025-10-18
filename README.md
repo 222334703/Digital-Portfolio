@@ -7,11 +7,11 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 
 ----
 ## 📌 Table of Contents
-1. [Career Counselling](#1-career-counselling)
-2. [Skills and Interests](#2-skills-and-interests)
-3. [Personality Assessment](#3-personality-assessment)
-4. [Create a CV](#4-create-a-cv)
-5. [CV Submission](#5-cv-submission)
+1. [Career Counselling](#1-Bussiness Communication)
+2. [Skills and Interests](#2-Interview Skils)
+3. [Personality Assessment](#3-Mock-Interview)
+4. [Create a CV](#4-Professional Networking)
+5. [CV Submission](#5-Workplace Etiquette)
 
    ---
 
