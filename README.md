@@ -61,7 +61,7 @@ Reflection
 ## 4️⃣. 👥 Professional Networking
 
 📄 Evidence
-![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
+![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Professional%20Networking.png)
 
 **Situation**: Recognized the importance of professional relationships for career advancement.
 
