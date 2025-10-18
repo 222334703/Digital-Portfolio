@@ -44,6 +44,10 @@ Reflection
 ## 3️⃣. 📹 Mock Interview
 
 ## 📄 Evidence
+
+Mock Interview Video Recording
+https://github.com/222334703/MockInterview_Video
+
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Mock%20Interview-Vuyisa.png)
 
 Reflection 
