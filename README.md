@@ -6,6 +6,15 @@
 This digital portfolio presents evidence and reflections from my Work readiness training. It is organized into five main sections, each showcasing concrete proof of my growth and structured reflections using the STAR (Situation, Task, Action, Result) method to highlight my career readiness.
 
 ----
+## 📌 Table of Contents
+1. [Career Counselling](#1-career-counselling)
+2. [Skills and Interests](#2-skills-and-interests)
+3. [Personality Assessment](#3-personality-assessment)
+4. [Create a CV](#4-create-a-cv)
+5. [CV Submission](#5-cv-submission)
+
+   ---
+
 ## 1️⃣.  ✉️ Business Communication
 
 ## 📄 Evidence
