@@ -10,7 +10,7 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 
 📄 Evidence
 
-![Career Counseling Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
+![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
 
 Reflection
 
@@ -27,7 +27,7 @@ Reflection
 ## 2️⃣. 💬 Interview Skills
 
  📄 Evidence
-(Examples of interview question lists and practice notes)
+![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
 
 Reflection 
 
@@ -44,7 +44,7 @@ Reflection
 ## 3️⃣. 📹 Mock Interview
 
 📄 Evidence
-(Link or file of mock interview performance)
+![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
 
 Reflection 
 
@@ -61,8 +61,7 @@ Reflection
 ## 4️⃣. 👥 Professional Networking
 
 📄 Evidence
-(Screenshot of online engagement and networking events attended)
-Reflection 
+![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
 
 **Situation**: Recognized the importance of professional relationships for career advancement.
 
@@ -77,7 +76,7 @@ Reflection
 ## 5️⃣. 🏢Workplace Etiquette
 
 📄 Evidence
-(Examples of workplace codes of conduct or feedback)
+![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
 
 Reflection 
 
