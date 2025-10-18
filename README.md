@@ -13,7 +13,7 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 
 Reflection
 
-Situation: I needed to enhance my ability to communicate clearly in a professional IT environment.
+*** Situation ***: I needed to enhance my ability to communicate clearly in a professional IT environment.
 
 Task: To refine both written and verbal communication through formal business letters and clear technical reports.
 
