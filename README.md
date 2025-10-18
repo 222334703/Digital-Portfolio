@@ -6,7 +6,7 @@
 This digital portfolio presents evidence and reflections from my Work readiness training. It is organized into five main sections, each showcasing concrete proof of my growth and structured reflections using the STAR (Situation, Task, Action, Result) method to highlight my career readiness.
 
 ----
-1️⃣. Business Communication
+## 1️⃣. Business Communication
 
 📄 Evidence
 (Screenshot or document of communication samples)
@@ -23,7 +23,7 @@ Result: Developed effective communication skills tailored to diverse workplace s
 
 ---
 
-2️⃣. Interview Skills
+## 2️⃣. Interview Skills
 
  📄 Evidence
 (Examples of interview question lists and practice notes)
@@ -40,7 +40,7 @@ Result: Increased confidence and ability to communicate my skills persuasively d
 
 ---
 
-3️⃣. Mock Interview
+## 3️⃣. Mock Interview
 
 📄 Evidence
 (Link or file of mock interview performance)
@@ -57,7 +57,7 @@ Result: Gained valuable insights into my interview strengths and areas for devel
 
 ---
 
-4️⃣. Professional Networking
+## 4️⃣. Professional Networking
 
 📄 Evidence
 (Screenshot of online engagement and networking events attended)
@@ -73,7 +73,7 @@ Result: Built a network that provides continual learning, mentorship, and job op
 
 ---
 
-Workplace Etiquette
+## 5️⃣. Workplace Etiquette
 
 📄 Evidence
 (Examples of workplace codes of conduct or feedback)
