@@ -10,7 +10,7 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 
 📄 Evidence
 
-![Career Counseling Screenshot](https://github.com/boity0/github_portfolio/blob/main/Career%20Counselling.png)
+![Career Counseling Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
 
 Reflection
 
