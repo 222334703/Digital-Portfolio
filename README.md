@@ -27,7 +27,7 @@ Reflection
 ## 2️⃣. 💬 Interview Skills
 
  📄 Evidence
-![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
+![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Interview%20skills.png)
 
 Reflection 
 
