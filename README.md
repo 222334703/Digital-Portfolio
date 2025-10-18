@@ -9,7 +9,8 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 ## 1️⃣.  ✉️ Business Communication
 
 📄 Evidence
-(Screenshot or document of communication samples)
+
+![Career Counseling Screenshot](https://github.com/boity0/github_portfolio/blob/main/Career%20Counselling.png)
 
 Reflection
 
