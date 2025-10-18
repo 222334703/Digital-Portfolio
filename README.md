@@ -13,13 +13,13 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 
 Reflection
 
-*** Situation ***: I needed to enhance my ability to communicate clearly in a professional IT environment.
+**Situation**: I needed to enhance my ability to communicate clearly in a professional IT environment.
 
-Task: To refine both written and verbal communication through formal business letters and clear technical reports.
+**Task**: To refine both written and verbal communication through formal business letters and clear technical reports.
 
-Action: Composed official emails with attention to tone, clarity, and structure; prepared documentation using standardized templates.
+**Action**: Composed official emails with attention to tone, clarity, and structure; prepared documentation using standardized templates.
 
-Result: Developed effective communication skills tailored to diverse workplace scenarios, improving collaboration and understanding
+**Result**: Developed effective communication skills tailored to diverse workplace scenarios, improving collaboration and understanding
 
 ---
 
@@ -30,13 +30,13 @@ Result: Developed effective communication skills tailored to diverse workplace s
 
 Reflection 
 
-Situation: Preparing to face demanding interviews in the competitive technology sector.
+**Situation**: Preparing to face demanding interviews in the competitive technology sector.
 
-Task: To master responses for a range of interview types, from technical to behavioral questions.
+**Task**: To master responses for a range of interview types, from technical to behavioral questions.
 
-Action: Analyzed commonly asked questions in IT interviews, practiced delivering answers using concise storytelling, and got feedback from peers
+**Action**: Analyzed commonly asked questions in IT interviews, practiced delivering answers using concise storytelling, and got feedback from peers
 
-Result: Increased confidence and ability to communicate my skills persuasively during interviews.
+**Result**: Increased confidence and ability to communicate my skills persuasively during interviews.
 
 ---
 
@@ -47,13 +47,13 @@ Result: Increased confidence and ability to communicate my skills persuasively d
 
 Reflection 
 
-Situation: Participated in a realistic simulated interview to improve readiness for real-world hiring.
+**Situation**: Participated in a realistic simulated interview to improve readiness for real-world hiring.
 
-Task: To demonstrate problem-solving skills and maintain professionalism under pressure.
+**Task**: To demonstrate problem-solving skills and maintain professionalism under pressure.
 
-Action: Reviewed common interview scenarios, practiced answering clearly and confidently, and controlled non-verbal cues.
+**Action**: Reviewed common interview scenarios, practiced answering clearly and confidently, and controlled non-verbal cues.
 
-Result: Gained valuable insights into my interview strengths and areas for development, helping me handle real interviews better.
+**Result**: Gained valuable insights into my interview strengths and areas for development, helping me handle real interviews better.
 
 ---
 
@@ -63,13 +63,13 @@ Result: Gained valuable insights into my interview strengths and areas for devel
 (Screenshot of online engagement and networking events attended)
 Reflection 
 
-Situation: Recognized the importance of professional relationships for career advancement.
+**Situation**: Recognized the importance of professional relationships for career advancement.
 
-Task: To establish a strong network of contacts within the IT industry using social platforms and events.
+**Task**: To establish a strong network of contacts within the IT industry using social platforms and events.
 
-Action: Developed a LinkedIn profile optimized with relevant experience, actively connected with professionals, and participated in discussions in IT groups.
+**Action**: Developed a LinkedIn profile optimized with relevant experience, actively connected with professionals, and participated in discussions in IT groups.
 
-Result: Built a network that provides continual learning, mentorship, and job opportunity access.
+**Result**: Built a network that provides continual learning, mentorship, and job opportunity access.
 
 ---
 
@@ -80,13 +80,13 @@ Result: Built a network that provides continual learning, mentorship, and job op
 
 Reflection 
 
-Situation: Needed to fit into professional team environments in IT workplaces.
+**Situation**: Needed to fit into professional team environments in IT workplaces.
 
-Task: To learn and apply appropriate professional etiquette including respect, punctuality, and constructive communication.
+**Task**: To learn and apply appropriate professional etiquette including respect, punctuality, and constructive communication.
 
-Action: Studied workplace protocols, practiced active listening, and demonstrated reliability in team tasks.
+**Action**: Studied workplace protocols, practiced active listening, and demonstrated reliability in team tasks.
 
-Result: Enhanced my ability to work collaboratively, respect workplace diversity, and maintain a professional image.
+**Result**: Enhanced my ability to work collaboratively, respect workplace diversity, and maintain a professional image.
 
 
 
