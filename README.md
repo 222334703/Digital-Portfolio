@@ -44,7 +44,7 @@ Reflection
 ## 3️⃣. 📹 Mock Interview
 
 📄 Evidence
-![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
+![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Mock%20Interview-Vuyisa.png)
 
 Reflection 
 
