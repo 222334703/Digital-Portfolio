@@ -8,7 +8,7 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 ----
 ## 1️⃣.  ✉️ Business Communication
 
-📄 Evidence
+## 📄 Evidence
 
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Business%20Communication.png)
 
@@ -26,7 +26,7 @@ Reflection
 
 ## 2️⃣. 💬 Interview Skills
 
- 📄 Evidence
+## 📄 Evidence
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Interview%20skills.png)
 
 Reflection 
@@ -43,7 +43,7 @@ Reflection
 
 ## 3️⃣. 📹 Mock Interview
 
-📄 Evidence
+## 📄 Evidence
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Mock%20Interview-Vuyisa.png)
 
 Reflection 
@@ -60,7 +60,7 @@ Reflection
 
 ## 4️⃣. 👥 Professional Networking
 
-📄 Evidence
+## 📄 Evidence
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Professional%20Networking.png)
 
 **Situation**: Recognized the importance of professional relationships for career advancement.
@@ -75,7 +75,7 @@ Reflection
 
 ## 5️⃣. 🏢Workplace Etiquette
 
-📄 Evidence
+## 📄 Evidence
 ![Business Communication Screenshot](https://github.com/222334703/Digital-Portfolio/blob/main/Workplace%20Etiquette.png)
 
 Reflection 
