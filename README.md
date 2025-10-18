@@ -7,7 +7,7 @@ This digital portfolio presents evidence and reflections from my Work readiness 
 
 ----
 ## 📌 Table of Contents
-1.## 📌 Table of Contents
+
 1. [Business Communication](#1-business-communication)
 2. [Interview Skills](#2-interview-skills)
 3. [Mock Interview](#3-mock-interview)
